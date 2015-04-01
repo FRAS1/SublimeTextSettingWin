@@ -1,0 +1,19 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"Clipboard Manager",
+		"ConvertToUTF8",
+		"Emmet",
+		"JsFormat",
+		"Package Control",
+		"SideBarEnhancements",
+		"SyncedSideBar",
+		"Theme - Soda"
+	]
+}

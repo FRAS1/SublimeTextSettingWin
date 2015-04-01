@@ -1,0 +1,17 @@
+[
+    // 当前行和下面一行交互位置
+    { "keys": ["alt+up"], "command": "swap_line_up" },
+    { "keys": ["alt+down"], "command": "swap_line_down" },
+    // 复制当前行到上一行
+    { "keys": ["ctrl+alt+up"], "command": "duplicate_line" },
+    // 复制当前行到下一行
+    { "keys": ["ctrl+alt+down"], "command": "duplicate_line" },
+    // 删除整行
+    { "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+    // 光标移动到指定行
+    { "keys": ["ctrl+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+     // 快速定位到选中的文字
+    { "keys": ["ctrl+k"], "command": "find_under_expand_skip" },
+    // 代码提示
+    { "keys": ["alt+f"], "command": "auto_complete" }
+]
