@@ -1,3 +1,2 @@
 # SublimeTextSettingWin
-Sublime Text Setting Window
-Sublime Text Setting window系统版
+Sublime Text window系统版配置
